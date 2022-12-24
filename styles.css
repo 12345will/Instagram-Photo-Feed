@@ -1,0 +1,37 @@
+.center{
+    margin: auto;
+}
+.text-center{
+text-align: center;
+}
+body{
+    background: grey;
+    margin: 0;
+}
+.post{
+    border-radius: 1%;
+    width: 800px;
+    background-color: white;
+    margin-top: 20px;
+}
+.heading{
+    background-color: white;
+    padding: 20px;
+}
+img{
+width: 100%;
+object-fit: cover;
+}
+.post-header{
+    display: flex;
+    padding: 5px;
+}
+.title{
+    width: 90%;
+}
+.date{
+    width: 10%;
+}
+.post-footer{
+    padding: 5px;
+}
